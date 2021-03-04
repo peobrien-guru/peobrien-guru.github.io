@@ -10,11 +10,11 @@
         <atom:link href="https://peobrien-guru.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Day 1</title>
-            <link>https://peobrien-guru.github.io/posts/01/</link>
+            <title>Day 0</title>
+            <link>https://peobrien-guru.github.io/posts/00/</link>
             <pubDate>Wed, 03 Mar 2021 08:47:11 +0100</pubDate>
             
-            <guid>https://peobrien-guru.github.io/posts/01/</guid>
+            <guid>https://peobrien-guru.github.io/posts/00/</guid>
             <description>Configured https://obrien.guru/</description>
             <content type="html"><![CDATA[<p>Configured <a href="https://obrien.guru/">https://obrien.guru/</a></p>
 ]]></content>
